@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan
 - 👀 I’m interested in Red Hat Products
-- 🌱 I’m currently learning OpenShift
+- 🌱 I’m passionate about Linux
 - 💞️ I’m looking to collaborate on CI/CD Pipelines and OpenShift Deployments
 - 📫 How to reach me juanb@redhat.com
 
